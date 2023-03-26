@@ -1,3 +1,15 @@
 [submodule "themes/meme"]
 	path = themes/meme
 	url = https://github.com/reuixiy/hugo-theme-meme
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether.git
+[submodule "themes/wowchemy"]
+	path = themes/wowchemy
+	url = https://github.com/wowchemy/wowchemy-hugo-themes.git
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-theme-codex"]
+	path = themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
