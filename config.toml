@@ -10,8 +10,6 @@ themesDir = "themes/"
     brand = "Yana's blog"
     dark = "auto"
     highlight = true
-    #github = "https://github.com/savchenkoyana"
-    #instagram = "https://www.instagram.com/dustanddesky/"
 
 [markup]
   [markup.highlight]
