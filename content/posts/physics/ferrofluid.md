@@ -1,7 +1,7 @@
 ---
 title: "Ферромагнитная жидкость"
 date: 2023-04-09T00:00:00+07:00
-description: ""
+description: "Рассказ о том, как учёный из NASA создал жидкость с суперсильными магнитными свойствами и как её применяют сегодня"
 categories: ["physics"]
 tags: ["easy", "electromagnetism"]
 toc: false
